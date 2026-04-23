@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Ian Zeledón**. I am currently on my senior year as a Software Engineering student, which has been the start of my involvement with Software, AI, and Gaming projects.
 
-### Some of the techs I have worked with:]
+### Some of the techs I have worked with:
 - Python
 - C#
 - HTML/CSS
