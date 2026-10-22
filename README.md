@@ -18,7 +18,7 @@ My name is **Ian Zeledón**. I am currently on my senior year as a Software Engi
 - [Hotel System with ASP](https://github.com/Idaxan/HotelSystem)
 
 ### Additional Info:
-- 🔭 I’m currently working on: Mobile applications, such as a project that I have been working called ProActive; an ERM for entrepeneurships in Nicaragua that uses AI and scrapping to support decisions based on the market.
+- I’m currently working on: Mobile applications, such as a project that I have been working called ProActive; an ERM for entrepeneurships in Nicaragua that uses AI and scrapping to support decisions based on the market.
 - I’m currently learning: ML-driven development and AI/ML engineering, Web development (most focused on backend), and cross-compatibility across devices with React Native.
 - I’m looking to collaborate on: ...
 - I’m looking for help with: ...
